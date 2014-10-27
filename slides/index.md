@@ -1,10 +1,11 @@
 
-# Git
+<h1>Be a Git master</h1>
 
-From the terminal, pop in:
+<p class="fragment">
+  (or at least know a little bit more than when you started)
+</p>
 
-  ```yo reveal:slide "Slide Title"```
+<p class="fragment">
+  <img src="images/ash-ketchum.png" alt="">
+</p>
 
-Available options:
-
- ```--markdown --attributes --notes```
