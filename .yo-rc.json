@@ -3,6 +3,8 @@
     "presentationTitle": "Git",
     "packageVersion": "0.0.1",
     "useSass": false,
-    "deployToGithubPages": false
+    "deployToGithubPages": false,
+    "githubUsername": "example_username",
+    "githubRepository": "example_repository"
   }
 }
