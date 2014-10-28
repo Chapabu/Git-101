@@ -6,6 +6,6 @@
 </p>
 
 <p class="fragment">
-  <img src="images/ash-ketchum.png" alt="">
+  <img class="stretch" src="images/ash-ketchum.png" alt="">
 </p>
 

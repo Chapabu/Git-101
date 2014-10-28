@@ -1,1 +1,7 @@
-["index.md"]
+[
+    "index.md",
+    [
+      "centralised-vcs.html",
+      "centralised-vcs-pros.html"
+    ]
+]
