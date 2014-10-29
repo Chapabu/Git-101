@@ -1,7 +1,10 @@
 [
     "index.md",
     [
-      "centralised-vcs.html",
-      "centralised-vcs-pros.html"
+        "centralised-vcs.html",
+        "centralised-vcs-pros.html",
+        "centralised-vcs-cons.html",
+        "cvcs-server-down.html"
     ]
+    
 ]
