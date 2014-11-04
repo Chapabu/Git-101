@@ -5,6 +5,16 @@
         "centralised-vcs-pros.html",
         "centralised-vcs-cons.html",
         "cvcs-server-down.html"
-    ]
-    
+    ],
+    [
+        "distributed-vcs.html",
+        "distributed-vcs-pros.html",
+        "distributed-vcs-cons.html"
+    ],
+    [
+        "creating-a-git-repository.html",
+        "creating-a-subversion-repository.html"
+    ],
+    "cloning-an-existing-git-repository.html",
+    "committing-to-a-git-repository.html"
 ]
