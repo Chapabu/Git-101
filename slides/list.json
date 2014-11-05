@@ -15,6 +15,12 @@
         "creating-a-git-repository.html",
         "creating-a-subversion-repository.html"
     ],
-    "cloning-an-existing-git-repository.html",
-    "committing-to-a-git-repository.html"
+    [
+        "cloning-an-existing-git-repository.html",
+        "checking-out-a-subversion-repository.html"
+    ],
+    [
+        "committing-to-a-git-repository.html",
+        "committing-to-a-subversion-repository.html"
+    ]
 ]
