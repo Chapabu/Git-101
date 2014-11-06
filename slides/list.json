@@ -22,5 +22,13 @@
     [
         "committing-to-a-git-repository.html",
         "committing-to-a-subversion-repository.html"
+    ],
+    "pull-requests.html",
+    "gitflow.html",
+    [
+        "git-clients-osx.html",
+        "git-clients-linux.html",
+        "best-osxlinux-git-client-ever.html",
+        "git-clients-windows.html"
     ]
 ]
