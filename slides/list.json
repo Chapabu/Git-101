@@ -31,6 +31,13 @@
         "best-osxlinux-git-client-ever.html",
         "git-clients-windows.html"
     ],
-    "hosted-git-repositoryrepositories.html",
-    "self-hosted-git.html"
+    [
+        "hosted-git-repositoryrepositories-github.html",
+        "hosted-git-repositoryrepositories-bitbucket.html"
+    ],
+    [
+        "self-hosted-git-github-enterprise.html",
+        "self-hosted-git-gitlab.html"
+    ],
+    "resources.html"
 ]
