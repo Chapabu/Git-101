@@ -20,10 +20,20 @@
         "checking-out-a-subversion-repository.html"
     ],
     [
+        "merging-a-git-repository.html",
+        "merging-a-subversion-repository.html",
+        "tree-conflict.html",
+        "no-tree-conflicts-in-git.html"
+    ],
+    [
         "committing-to-a-git-repository.html",
         "committing-to-a-subversion-repository.html"
     ],
-    "pull-requests.html",
+    [
+        "pull-requests.html",
+        "pull-request-workflow.html",
+        "pull-requests-are-awesome.html"
+    ],
     "gitflow.html",
     [
         "git-clients-osx.html",
